@@ -1,6 +1,6 @@
 # 💬 OOPs Chat Application Simulation
 
-A console-based Chat Application Simulation developed in **C++** using Object-Oriented Programming (OOP) concepts. This project demonstrates user interaction, message exchange, exception handling, inheritance, function overloading, constructor overloading, and friend functions.
+A console-based Chat Application Simulation developed in **C++** using Object-Oriented Programming (OOP) concepts. This project demonstrates user interaction, message exchange, exception handling, inheritance, function overloading, constructor overloading and friend functions.
 
 ---
 
